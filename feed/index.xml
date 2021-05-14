@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 
 <image>
 	<url>/wp-content/uploads/2020/10/cropped-favicon-cateringsidoarjo-1-32x32.png</url>
@@ -128,8 +128,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -166,8 +167,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -204,8 +206,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -248,8 +251,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -286,8 +290,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -324,8 +329,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -650,8 +656,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -688,8 +695,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -726,8 +734,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -770,8 +779,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -808,8 +818,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -846,8 +857,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1172,8 +1184,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1210,8 +1223,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1248,8 +1262,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1292,8 +1307,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1330,8 +1346,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1368,8 +1385,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1694,8 +1712,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1732,8 +1751,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1770,8 +1790,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1814,8 +1835,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1852,8 +1874,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -1890,8 +1913,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2216,8 +2240,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2254,8 +2279,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2292,8 +2318,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2336,8 +2363,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2374,8 +2402,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2412,8 +2441,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2738,8 +2768,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2776,8 +2807,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2814,8 +2846,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2858,8 +2891,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2896,8 +2930,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -2934,8 +2969,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3260,8 +3296,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3298,8 +3335,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3336,8 +3374,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3380,8 +3419,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3418,8 +3458,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3456,8 +3497,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3782,8 +3824,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3820,8 +3863,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3858,8 +3902,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3902,8 +3947,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3940,8 +3986,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -3978,8 +4025,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4304,8 +4352,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4342,8 +4391,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4380,8 +4430,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4424,8 +4475,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4462,8 +4514,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4500,8 +4553,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4826,8 +4880,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7ebf57b9 elementor-widget elementor-widget-text-editor" data-id="7ebf57b9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih</li><li>Ayam Goreng / Ayam Bakar/ Ayam Rica / Ayam Goreng Kelapa/ Ayam Kentucky/ Ayam Kremes</li><li>Mie / Oseng Sayur / Sambal</li><li>Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4864,8 +4919,9 @@
 				</div>
 				<div class="elementor-element elementor-element-6c060226 elementor-widget elementor-widget-text-editor" data-id="6c060226" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih / Nasi Kuning / Nasi Uduk</li><li>Ayam Goreng / Ayam Bakar / Ayam Rica</li><li>Kentang / Kremes Goreng Kelapa</li><li>Telur Ceplok / Telur Rebus</li><li>Sambal Goreng Kentang Ampela</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4902,8 +4958,9 @@
 				</div>
 				<div class="elementor-element elementor-element-272706fd elementor-widget elementor-widget-text-editor" data-id="272706fd" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning/ Nasi Putih</li><li>Ayam Kentucky/ Ayam Kremes/ Ayam Goreng/ Ayam Bakar<br />Mie</li><li>Nugget + Sosis</li><li>Kering Tempe</li><li>Telur Puyuh + Snack<br /><br /></li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4946,8 +5003,9 @@
 				</div>
 				<div class="elementor-element elementor-element-66492cb2 elementor-widget elementor-widget-text-editor" data-id="66492cb2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Putih/Nasi Uduk/ Nasi Kuning</li><li>Rendang Daging</li><li>Telur Ceplok/ Telur Rebus</li><li>Mie / Oseng Sayur</li><li>Sambal Goreng Kentang Ati</li><li>Kerupuk Udang</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -4984,8 +5042,9 @@
 				</div>
 				<div class="elementor-element elementor-element-3a1eb1ba elementor-widget elementor-widget-text-editor" data-id="3a1eb1ba" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<ul><li>Nasi Kuning</li><li>Ayam Goreng</li><li>Telur Ceplok/Telur Rebus</li><li>Sambal Goreng Kentang</li><li>Kering Tempe</li><li>Kerupuk</li></ul>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
@@ -5022,8 +5081,9 @@
 				</div>
 				<div class="elementor-element elementor-element-7c5b26e9 elementor-widget elementor-widget-text-editor" data-id="7c5b26e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p></div>
-				</div>
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Kami menyediakan menu nasi kotak yang bisa Anda buat sendiri (kustomisasi) berdasarkan budget atau isi  yang sudah Anda tentukan.</p>					</div>
+						</div>
 				</div>
 						</div>
 					</div>
